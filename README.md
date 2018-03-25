@@ -1,4 +1,7 @@
 # ShootingColor
+サンプル プレイ動画 https://youtu.be/UehPuElP18o
+
+ダウンロード: https://github.com/elzup/ShootingColor/releases
 
 |キー|説明|
 |---|---|
