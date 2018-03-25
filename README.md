@@ -10,11 +10,11 @@
 
 ## プレイ画面
 
-<div style="display: flex;">
-<img style="width: 30%;" src="https://raw.githubusercontent.com/elzup/ShootingColor/master/ScreenShots/blue.gif" />
-<img style="width: 30%;" src="https://raw.githubusercontent.com/elzup/ShootingColor/master/ScreenShots/yellow.gif" />
-<img style="width: 30%;" src="https://raw.githubusercontent.com/elzup/ShootingColor/master/ScreenShots/purple.gif" />
-</div>
+||||
+|---|---|---|
+|![](https://raw.githubusercontent.com/elzup/ShootingColor/master/ScreenShots/blue.gif)|![](https://raw.githubusercontent.com/elzup/ShootingColor/master/ScreenShots/yellow.gif)|![](https://raw.githubusercontent.com/elzup/ShootingColor/master/ScreenShots/purple.gif)|
+
+
 
 ボスはそれぞれ特徴を持っています。
 
